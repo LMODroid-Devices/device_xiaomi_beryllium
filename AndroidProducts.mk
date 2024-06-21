@@ -15,8 +15,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_beryllium.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_beryllium-user \
-    lmodroid_beryllium-userdebug \
-    lmodroid_beryllium-eng
